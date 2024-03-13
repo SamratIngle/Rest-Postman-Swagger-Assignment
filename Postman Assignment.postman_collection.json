@@ -188,7 +188,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"userName\" : \"Rohit\",\r\n    \"email\" : \"rohit123@gmail.com\"\r\n}",
+					"raw": "{\r\n    \"userName\" : \"Samrat\",\r\n    \"email\" : \"samrat.ingle24@gmail.com\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
