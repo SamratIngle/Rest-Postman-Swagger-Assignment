@@ -229,7 +229,7 @@
 							"});\r",
 							"\r",
 							"pm.test(\"Response Body With User Name\",function(){\r",
-							"    pm.expect(responseBody.userName).to.equal(\"Rohit\");\r",
+							"    pm.expect(responseBody.userName).to.equal(\"Samrat\");\r",
 							"});\r",
 							"\r",
 							""
